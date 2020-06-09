@@ -1,0 +1,296 @@
+[08-Jun-2020 07:14:38 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[08-Jun-2020 07:14:38 Asia/Tokyo] デバッグユーザ登録
+[08-Jun-2020 07:14:38 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[08-Jun-2020 07:14:38 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[08-Jun-2020 07:14:38 Asia/Tokyo] デバッグSESSION ID:
+[08-Jun-2020 07:14:38 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in C:\MAMP\htdocs\OP\ToDo\function.php on line 26
+[08-Jun-2020 07:14:38 Asia/Tokyo] デバッグSESSION変数の中身
+[08-Jun-2020 07:14:38 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591568078
+[09-Jun-2020 19:27:59 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:27:59 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:27:59 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:27:59 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:27:59 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:27:59 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:27:59 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:27:59 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:27:59 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:27:59 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698479
+[09-Jun-2020 19:28:28 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:28:28 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:28:29 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:28:29 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:28:29 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:28:29 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:28:29 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:28:29 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:28:29 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:28:29 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698509
+[09-Jun-2020 19:28:29 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function validrequired() in C:\MAMP\htdocs\OP\ToDo\signup.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\OP\ToDo\signup.php on line 20
+[09-Jun-2020 19:29:21 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:29:21 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:29:21 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:29:21 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:29:21 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:29:22 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:29:22 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:29:22 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:29:22 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:29:22 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698562
+[09-Jun-2020 19:29:22 Asia/Tokyo] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in C:\MAMP\htdocs\OP\ToDo\function.php on line 89
+[09-Jun-2020 19:29:22 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function validpassword() in C:\MAMP\htdocs\OP\ToDo\signup.php:35
+Stack trace:
+#0 {main}
+  thrown in C:\MAMP\htdocs\OP\ToDo\signup.php on line 35
+[09-Jun-2020 19:29:39 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:29:39 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:29:39 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:29:39 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:29:39 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:29:39 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:29:39 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:29:39 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:29:39 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:29:39 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698579
+[09-Jun-2020 19:29:39 Asia/Tokyo] PHP Warning:  preg_match(): Delimiter must not be alphanumeric or backslash in C:\MAMP\htdocs\OP\ToDo\function.php on line 89
+[09-Jun-2020 19:30:11 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:30:11 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:30:11 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:30:11 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:30:11 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:30:11 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:30:11 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:30:11 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:30:11 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:30:11 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698611
+[09-Jun-2020 19:30:11 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function dbConnect() in C:\MAMP\htdocs\OP\ToDo\function.php:117
+Stack trace:
+#0 C:\MAMP\htdocs\OP\ToDo\signup.php(42): validEmailMatch('kkkkkkkkk@com')
+#1 {main}
+  thrown in C:\MAMP\htdocs\OP\ToDo\function.php on line 117
+[09-Jun-2020 19:30:38 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:30:38 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:30:38 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:30:39 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:30:39 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:30:39 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:30:39 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:30:39 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:30:39 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:30:39 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698639
+[09-Jun-2020 19:30:39 Asia/Tokyo] デバッグDB接続エラー
+[09-Jun-2020 19:30:54 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:30:54 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:30:54 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:30:54 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:30:54 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:30:54 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:30:54 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:30:54 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:30:54 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:30:54 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698654
+[09-Jun-2020 19:30:54 Asia/Tokyo] デバッグDB接続エラー
+[09-Jun-2020 19:34:23 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:34:23 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:34:23 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:34:23 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:34:23 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:34:23 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:34:23 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:34:23 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:34:23 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:34:23 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698863
+[09-Jun-2020 19:34:23 Asia/Tokyo] デバッグDB接続エラー
+[09-Jun-2020 19:34:35 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:34:35 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:34:35 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:34:35 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:34:35 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:34:35 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:34:35 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:34:35 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:34:35 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:34:35 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698875
+[09-Jun-2020 19:34:35 Asia/Tokyo] デバッグDB接続エラー
+[09-Jun-2020 19:36:12 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:36:12 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:36:13 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:36:13 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:36:13 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:36:13 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:36:13 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:36:13 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:36:13 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:36:13 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698973
+[09-Jun-2020 19:36:13 Asia/Tokyo] デバッグDB接続エラー
+[09-Jun-2020 19:36:22 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:36:22 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:36:22 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:36:22 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:36:22 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:36:22 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:36:22 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:36:22 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:36:22 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:36:22 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591698982
+[09-Jun-2020 19:36:22 Asia/Tokyo] デバッグDB接続エラー
+[09-Jun-2020 19:36:49 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:36:49 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:36:49 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:36:49 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:36:49 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:36:49 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:36:49 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:36:49 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:36:49 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:36:49 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591699009
+[09-Jun-2020 19:36:49 Asia/Tokyo] デバッグEmail重複PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM users WHERE email=:email
+)
+
+[09-Jun-2020 19:36:58 Asia/Tokyo] PHP Warning:  session_start(): open(var	mp\sess_dd8ea8166fc3f9e1fcd17e11945b544a, O_RDWR) failed: No such file or directory (2) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:36:58 Asia/Tokyo] PHP Warning:  session_start(): Failed to read session data: files (path: var	mp) in C:\MAMP\htdocs\OP\ToDo\function.php on line 47
+[09-Jun-2020 19:36:58 Asia/Tokyo] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in C:\MAMP\htdocs\OP\ToDo\function.php on line 49
+[09-Jun-2020 19:36:58 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:36:58 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:36:58 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:36:58 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:36:58 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:36:58 Asia/Tokyo] デバッグSESSION変数の中身Array
+(
+)
+
+[09-Jun-2020 19:36:58 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591699018
+[09-Jun-2020 19:36:58 Asia/Tokyo] デバッグEmail重複PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM users WHERE email=:email
+)
+
+[09-Jun-2020 19:41:13 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:41:13 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:41:13 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:41:13 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:41:13 Asia/Tokyo] デバッグSESSION ID:
+[09-Jun-2020 19:41:13 Asia/Tokyo] PHP Notice:  Undefined variable: _SESSION in C:\MAMP\htdocs\OP\ToDo\function.php on line 29
+[09-Jun-2020 19:41:13 Asia/Tokyo] デバッグSESSION変数の中身
+[09-Jun-2020 19:41:13 Asia/Tokyo] デバッグ現在時刻のUNIXタイムスタンプ1591699273
+[09-Jun-2020 19:41:13 Asia/Tokyo] デバッグEmail重複PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM users WHERE email=:email
+)
+
+[09-Jun-2020 19:41:44 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:41:44 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:41:44 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:41:44 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:41:45 Asia/Tokyo] デバッグEmail重複PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM users WHERE email=:email
+)
+
+[09-Jun-2020 19:41:53 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:41:53 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:41:53 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:41:53 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:41:53 Asia/Tokyo] デバッグEmail重複PDOStatement Object
+(
+    [queryString] => SELECT count(*) FROM users WHERE email=:email
+)
+
+[09-Jun-2020 19:43:55 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:43:55 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:43:55 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:43:55 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:44:08 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:44:08 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:44:08 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:44:08 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:44:08 Asia/Tokyo] PHP Fatal error:  Uncaught Error: Call to undefined function rowCount() in C:\MAMP\htdocs\OP\ToDo\function.php:162
+Stack trace:
+#0 C:\MAMP\htdocs\OP\ToDo\signup.php(42): validEmailMatch('kkkkkkkkk@com')
+#1 {main}
+  thrown in C:\MAMP\htdocs\OP\ToDo\function.php on line 162
+[09-Jun-2020 19:47:04 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:47:04 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:47:04 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:47:04 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:47:04 Asia/Tokyo] デバッグEmail重複Array
+(
+    [count(*)] => 0
+)
+
+[09-Jun-2020 19:47:22 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:47:23 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:47:23 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:47:23 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:47:23 Asia/Tokyo] デバッグEmail重複Array
+(
+    [count(*)] => 0
+)
+
+[09-Jun-2020 19:48:37 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:48:37 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:48:37 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:48:37 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:48:45 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:48:45 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:48:45 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:48:45 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:48:45 Asia/Tokyo] デバッグEmail重複なし
+[09-Jun-2020 19:48:45 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in C:\MAMP\htdocs\OP\ToDo\function.php on line 95
+[09-Jun-2020 19:48:45 Asia/Tokyo] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number in C:\MAMP\htdocs\OP\ToDo\function.php on line 95
+[09-Jun-2020 19:48:45 Asia/Tokyo] デバッグユーザ登録成功
+[09-Jun-2020 19:49:32 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:49:32 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:49:32 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:49:32 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:49:32 Asia/Tokyo] デバッグEmail重複なし
+[09-Jun-2020 19:49:32 Asia/Tokyo] デバッグユーザ登録成功
+[09-Jun-2020 19:49:41 Asia/Tokyo] デバッグ「「「「「「「「「「「「「「「「「「「「「「「「「「「「
+[09-Jun-2020 19:49:41 Asia/Tokyo] デバッグユーザ登録
+[09-Jun-2020 19:49:41 Asia/Tokyo] デバッグ」」」」」」」」」」」」」」」」」」」」」」」」」」」」
+[09-Jun-2020 19:49:41 Asia/Tokyo] デバッグ>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>画面表示処理開始
+[09-Jun-2020 19:49:41 Asia/Tokyo] デバッグEmail重複Array
+(
+)
+

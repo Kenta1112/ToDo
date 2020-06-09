@@ -1,0 +1,56 @@
+/* ==================================================== */
+/* 共通 */
+/* ==================================================== */
+main{
+  padding:0;
+  margin:0;
+}
+
+p,a,h1,h2,h3,h4,h5,h6{
+  margin:0;
+  padding: 0;
+}
+
+.site-width{
+  width:980px;
+  margin: 0 auto;
+}
+
+/* =============================================== */
+/* signup.php,login.php */
+/* =============================================== */
+.form{
+  margin: 400px 100px;
+  padding:30px 20px 70px 20px;
+  text-align: center;
+  border:1px solid black;
+}
+
+.form h1{
+  margin-bottom:50px;
+}
+
+.form p{
+  width:70%;
+  margin:0 auto;
+  text-align: left;
+}
+
+.form input{
+  width:70%;
+  height:50px;
+  padding:0 10px;
+  margin:10px 0;
+}
+
+.btn_wrapper{
+  width:70%;
+  margin:0 auto;;
+  text-align: right;
+}
+
+.btn{
+  width:18% !important;
+  background-color: black;
+  color:white;
+}
